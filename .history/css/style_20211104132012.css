@@ -5,10 +5,10 @@
 body{
     Font-size: 13px;
     font-family: 'Barlow Semi Condensed', sans-serif;
-   /* font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-family: 'PT Sans', sans-serif;
-    font-family: 'Roboto', sans-serif; */
-    /* font-family: 'Barlow Semi' Condensed; */
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Barlow Semi Condensed;
     background-color: hsl(210, 46%, 95%);
 }
 *{
@@ -32,11 +32,9 @@ content  style
     grid-gap: 20px;
      padding: 30px;
 }
-.lite-text{
-    opacity:.5;
-}
+.lite-text,
 .name-info{
-    opacity:.7;
+    color:hsl(0, 0%, 81%);
 }
 .grid-item{
     padding: 30px;
@@ -53,15 +51,11 @@ content  style
     max-width: 200px;
 
 }
-.art-body{
-    font-family: 'Roboto', sans-serif;
-}
 .name{
     font-weight: bold;
 }
 .bold-text{
     margin: 20px 0;
-    letter-spacing: .5px;
 }
 .item-img img{
  border-radius: 50%;

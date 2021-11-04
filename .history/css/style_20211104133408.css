@@ -53,9 +53,7 @@ content  style
     max-width: 200px;
 
 }
-.art-body{
-    font-family: 'Roboto', sans-serif;
-}
+.art-body
 .name{
     font-weight: bold;
 }

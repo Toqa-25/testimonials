@@ -4,8 +4,8 @@
 */
 body{
     Font-size: 13px;
-    font-family: 'Barlow Semi Condensed', sans-serif;
-   /* font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-family: 'PT Sans', sans-serif;
     font-family: 'Roboto', sans-serif; */
     /* font-family: 'Barlow Semi' Condensed; */
@@ -53,15 +53,11 @@ content  style
     max-width: 200px;
 
 }
-.art-body{
-    font-family: 'Roboto', sans-serif;
-}
 .name{
     font-weight: bold;
 }
 .bold-text{
     margin: 20px 0;
-    letter-spacing: .5px;
 }
 .item-img img{
  border-radius: 50%;
